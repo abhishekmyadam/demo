@@ -112,7 +112,7 @@
     <version.keytool-maven-plugin>1.5</version.keytool-maven-plugin>
     <version.maven.plugin.api>3.2.5</version.maven.plugin.api>
 
-    <version.checkstyle>7.4</version.checkstyle>
+    <version.checkstyle>8.18</version.checkstyle>
 
     <maven.min.version>3.2.1</maven.min.version>
 
