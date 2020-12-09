@@ -94,7 +94,7 @@
 
     <version.gradle>2.4</version.gradle>
     <version.gradle.plugins>1.12</version.gradle.plugins>
-    <version.groovy>2.4.3</version.groovy>
+    <version.groovy>2.4.21</version.groovy>
 
     <version.brave>3.14.1</version.brave>
     <version.zipkin.reporter>0.6.1</version.zipkin.reporter>
