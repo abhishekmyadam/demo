@@ -34,7 +34,7 @@
     <version.wildfly.swarm.fraction.plugin>55</version.wildfly.swarm.fraction.plugin>
     <version.wildfly.swarm.checkstyle>3</version.wildfly.swarm.checkstyle>
 
-    <version.org.snakeyaml>1.17</version.org.snakeyaml>
+    <version.org.snakeyaml>1.26</version.org.snakeyaml>
 
     <version.maven.aether>3.2.5</version.maven.aether>
     <version.wildfly.config-api>1.1.0.Final</version.wildfly.config-api>
