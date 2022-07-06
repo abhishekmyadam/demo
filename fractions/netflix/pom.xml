@@ -29,7 +29,7 @@
     <version.hystrix>1.4.21</version.hystrix>
     <version.rxjava>1.2.5</version.rxjava>
     <version.rxnetty>0.4.9</version.rxnetty>
-    <version.netty>4.0.26.Final</version.netty>
+    <version.netty>4.1.42.Final</version.netty>
     <version.guava>14.0.1</version.guava>
     <version.servo>0.9.2</version.servo>
 
